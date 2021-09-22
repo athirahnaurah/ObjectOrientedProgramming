@@ -1,4 +1,5 @@
-package com.abcdefg;
+package com.fundamental;
+
 
 public class Strings {
 	public static void main(String[]args) {

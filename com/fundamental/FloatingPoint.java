@@ -1,4 +1,4 @@
-package com.abcdefg;
+package com.fundamental;
 
 class FloatingPoint {
 	public static void main(String[] args) {

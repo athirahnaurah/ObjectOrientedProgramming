@@ -1,4 +1,4 @@
-package com.abcdefg;
+package com.fundamental;
 
 
 public class variables2 {

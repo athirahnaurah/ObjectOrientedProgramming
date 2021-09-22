@@ -1,4 +1,4 @@
-package com.abcdefg;
+package com.fundamental;
 
 //mengimpor scanner ke program
 import java.util.Scanner;

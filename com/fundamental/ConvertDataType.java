@@ -1,4 +1,4 @@
-package com.abcdefg;
+package com.fundamental;
 
 class ConvertDataType {
 	static short methodOne(long l)
