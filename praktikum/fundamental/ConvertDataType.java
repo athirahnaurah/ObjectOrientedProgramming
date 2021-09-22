@@ -1,4 +1,4 @@
-package com.fundamental;
+package praktikum.fundamental;
 
 class ConvertDataType {
 	static short methodOne(long l)

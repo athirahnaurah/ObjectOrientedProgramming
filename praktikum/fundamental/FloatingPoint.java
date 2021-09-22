@@ -1,4 +1,4 @@
-package com.fundamental;
+package praktikum.fundamental;
 
 class FloatingPoint {
 	public static void main(String[] args) {

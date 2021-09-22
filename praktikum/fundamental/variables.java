@@ -1,4 +1,4 @@
-package com.fundamental;
+package praktikum.fundamental;
 
 
 public class variables {

@@ -1,4 +1,4 @@
-package com.fundamental;
+package praktikum.fundamental;
 
 //mengimpor scanner ke program
 import java.util.Scanner;
