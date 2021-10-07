@@ -19,7 +19,7 @@ public class Soal3 {
 				
 			else if ("/".equals(operator)) 
 				{
-				if ( A % B == 0) 
+				if ( A % B != 0) 
 					System.out.println(A/B);
 				else
 					System.out.println("Tidak dapat melakukan pembagian");

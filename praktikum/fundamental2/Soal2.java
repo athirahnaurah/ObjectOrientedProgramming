@@ -31,7 +31,7 @@ public class Soal2 {
             }
         }
         System.out.println("================================");
-        //https://gist.github.com/AlexanderChen0/318d4c074abd31bdc53c788ddfd4baa8
+       
 
 
 	}
