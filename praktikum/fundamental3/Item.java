@@ -7,7 +7,7 @@ public class Item {
 		name = "Ipin";
 	}
 	public Item(String name) {
-		this(); //memanggil constructor dalam kelas ini yang memiliki parameter yg sama
+		//this(); //memanggil constructor dalam kelas ini yang memiliki parameter yg sama
 		System.out.println(this.name);
 	}
 }
