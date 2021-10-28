@@ -15,3 +15,4 @@ public class MataKuliah {
 		System.out.println(this.kodeMatkul +" " + this.namaMatkul +" (" + this.jmlSKS + " sks)");
 	}
 }
+   
