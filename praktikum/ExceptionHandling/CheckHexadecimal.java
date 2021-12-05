@@ -22,9 +22,8 @@ public class CheckHexadecimal {
 			} 
 		    catch (NumberFormatException e) 
 		    {
-				value = 0;
 				System.out.println(hex + " is not hexadecimal, try again!");
 			}
-		} while(!stop);		
+		} while(!stop);	
 	}
 }
